@@ -1,5 +1,10 @@
-# MLND_project_4
-Smartcab
+# Smartcab Route Planner
 
-Python 2.7
+## Goal
+Create an AI that will learn the best action to take given current and goal coordinates, external information, and ineternal parameter.
+Practicing tuning the pararmeters and achieve the best learning performance in limited time
+
+## Environment
+Python2.7
+libraries: numpy
 PyGame

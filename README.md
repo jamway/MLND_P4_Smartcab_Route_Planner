@@ -1,4 +1,5 @@
-# Smartcab Route Planner
+# Udacity Machine Learning Nanodegree Project 4
+Smartcab Route Planner
 
 ## Goal
 Create an AI that will learn the best action to take given current and goal coordinates, external information, and ineternal parameter.
